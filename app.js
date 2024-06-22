@@ -30,4 +30,4 @@ function calculateBmi() {
     }else{
         result.innerText = `Extreme Obesity: ${bmi}`;
     }
-}
+ }
